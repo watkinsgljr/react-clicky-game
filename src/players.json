@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "Kobe Bryant",
+    "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Flakeshowlife.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F521050156-utah-jazz-v-los-angeles-lakers.jpg.jpg",
+    "position": "Guard",
+    "team": "Los Angeles Lakers"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "James Harden",
+    "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Flakeshowlife.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F521050156-utah-jazz-v-los-angeles-lakers.jpg.jpg",
+    "position": "Guard",
+    "team": "Houston Rockets"
   },
   {
     "id": 3,
-    "name": "Squidward",
+    "name": "Lebron James",
     "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "position": "Guard",
+    "team": "Los Angeles LAkers"
   },
   {
     "id": 4,
-    "name": "Dexter",
+    "name": "Paul George",
     "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "position": "Small Forward",
+    "team": "Los Angeles Clippers"
   },
   {
     "id": 5,
-    "name": "Courage",
+    "name": "Micheal Jordan",
     "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "position": "Guard",
+    "team": "Chicago Bulls"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
+    "name": "Magic Johnson",
     "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "position": "Point Guard",
+    "team": "Los Angeles Lakers"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
+    "name": "Shaquill O'neal",
     "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "position": "Center",
+    "team": "Los Angeles Lakers"
   },
   {
     "id": 8,
     "name": "Johnny Bravo",
     "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "position": "Ladies Man",
+    "team": "Aron City"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
+    "name": "Kawhi Leonard",
     "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "position": "Guard",
+    "team": "Los Angeles Clippers"
   },
   {
     "id": 10,
-    "name": "Rocko",
+    "name": "Kareem Abdul Jabar",
     "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "position": "Center",
+    "team": "Los Angeles Lakers"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
+    "name": "Larry Bird",
     "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "position": "Forward",
+    "team": "Boston Celtics"
   },
   {
     "id": 12,
-    "name": "Ickis",
+    "name": "Allen Iverson",
     "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "position": "Point Guard",
+    "team": "Philadelphia 76ers"
   }
 ]

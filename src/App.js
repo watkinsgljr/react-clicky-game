@@ -1,33 +1,41 @@
-import React from "react";
-import FriendCard from "./components/FriendCard";
+import React, { Component } from "react";
+import PlayerCard from "./components/PlayerCard";
 import Wrapper from "./components/Wrapper";
-import friends from "./friends.json";
-import "./App.css";
+import Title from "./components/Title";
+import players from "./players.json";
 
-function App() {
-  return (
-    <Wrapper>
-      <h1 className="title">Friends List</h1>
-      <FriendCard
-        name={friends[0].name}
-        image={friends[0].image}
-        occupation={friends[0].occupation}
-        location={friends[0].location}
-      />
-      <FriendCard
-        name={friends[1].name}
-        image={friends[1].image}
-        occupation={friends[1].occupation}
-        location={friends[1].location}
-      />
-      <FriendCard
-        name={friends[2].name}
-        image={friends[2].image}
-        occupation={friends[2].occupation}
-        location={friends[2].location}
-      />
-    </Wrapper>
-  );
+class App extends Component {
+  // Setting this.state.players to the players json array
+  state = {
+    players
+  };
+
+  removeplayer = id => {
+    // Filter this.state.players for players with an id not equal to the id being removed
+    const players = this.state.players.filter(player => player.id !== id);
+    // Set this.state.players equal to the new players array
+    this.setState({ players });
+  };
+
+  // Map over this.state.players and render a playerCard component for each player object
+  render() {
+    return (
+      <Wrapper>
+        <Title>Players List</Title>
+        {this.state.players.map(player => (
+          <PlayerCard
+            removeplayer={this.removeplayer}
+            id={player.id}
+            key={player.id}
+            name={player.name}
+            image={player.image}
+            position={player.position}
+            team={player.team}
+          />
+        ))}
+      </Wrapper>
+    );
+  }
 }
 
 export default App;

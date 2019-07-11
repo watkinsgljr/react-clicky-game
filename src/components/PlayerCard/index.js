@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function FriendCard(props) {
+function PlayerCard(props) {
   return (
     <div className="card">
       <div className="img-container">
@@ -13,16 +13,18 @@ function FriendCard(props) {
             <strong>Name:</strong> {props.name}
           </li>
           <li>
-            <strong>Occupation:</strong> {props.occupation}
+            <strong>Occupation:</strong> {props.position}
           </li>
           <li>
-            <strong>Address:</strong> {props.location}
+            <strong>Location:</strong> {props.team}
           </li>
         </ul>
       </div>
-      <span className="remove">𝘅</span>
+      <span onClick={() => props.removeFriend(props.id)} className="remove">
+        𝘅
+      </span>
     </div>
   );
 }
 
-export default FriendCard;
+export default PlayerCard;
