@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kobe Bryant",
-    "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Flakeshowlife.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F521050156-utah-jazz-v-los-angeles-lakers.jpg.jpg",
+    "image": "https://media.gettyimages.com/photos/kobe-bryant-of-the-los-angeles-lakers-reacts-after-a-call-during-picture-id456600503?s=612x612",
     "position": "Guard",
     "team": "Los Angeles Lakers"
   },
@@ -18,7 +18,7 @@
     "name": "Lebron James",
     "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
     "position": "Guard",
-    "team": "Los Angeles LAkers"
+    "team": "Los Angeles Lakers"
   },
   {
     "id": 4,
