@@ -7,7 +7,9 @@ import players from "./players.json";
 class App extends Component {
   // Setting this.state.players to the players json array
   state = {
-    players
+    players,
+    score: 0,
+    highScore: 0
   };
 
   removeplayer = id => {
@@ -16,6 +18,8 @@ class App extends Component {
     // Set this.state.players equal to the new players array
     this.setState({ players });
   };
+
+
 
   // Map over this.state.players and render a playerCard component for each player object
   render() {
