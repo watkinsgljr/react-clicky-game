@@ -16,70 +16,70 @@
   {
     "id": 3,
     "name": "Lebron James",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "image": "https://imagevars.gulfnews.com/2018/11/11/tab_LeBron_James_16a085193fd_large.jpg",
     "position": "Guard",
     "team": "Los Angeles Lakers"
   },
   {
     "id": 4,
     "name": "Paul George",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "image": "https://pbs.twimg.com/media/D_CG85GXkAMt0AC.jpg",
     "position": "Small Forward",
     "team": "Los Angeles Clippers"
   },
   {
     "id": 5,
     "name": "Micheal Jordan",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "image": "https://statics.sportskeeda.com/editor/2018/03/a4a7b-1520474015-800.jpg",
     "position": "Guard",
     "team": "Chicago Bulls"
   },
   {
     "id": 6,
     "name": "Magic Johnson",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "image": "https://gazettereview.com/wp-content/uploads/2016/07/magic-johnson.jpeg",
     "position": "Point Guard",
     "team": "Los Angeles Lakers"
   },
   {
     "id": 7,
-    "name": "Shaquill O'neal",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "name": "Shaquille O'neal",
+    "image": "https://a.espncdn.com/media/motion/2018/0526/dm_180526_nba_lakers_kobe_to_shaq/dm_180526_nba_lakers_kobe_to_shaq.jpg",
     "position": "Center",
     "team": "Los Angeles Lakers"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "position": "Ladies Man",
-    "team": "Aron City"
+    "name": "Wilt Chamberlain",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555928824/shape/mentalfloss/00wilt_6.jpg",
+    "position": "Center",
+    "team": "76ers"
   },
   {
     "id": 9,
     "name": "Kawhi Leonard",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1_kawhi_leonard_2019_%28cropped%29.jpg/250px-1_kawhi_leonard_2019_%28cropped%29.jpg",
     "position": "Guard",
     "team": "Los Angeles Clippers"
   },
   {
     "id": 10,
     "name": "Kareem Abdul Jabar",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+    "image": "https://www.winchurchill2.com/wp-content/uploads/2018/03/lakers-vs-sonics-1989-92290598cfe366cf.jpg",
     "position": "Center",
     "team": "Los Angeles Lakers"
   },
   {
     "id": 11,
     "name": "Larry Bird",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51vwLtYuqHL.jpg",
     "position": "Forward",
     "team": "Boston Celtics"
   },
   {
     "id": 12,
     "name": "Allen Iverson",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+    "image": "https://miro.medium.com/max/1000/1*bcpVnTDQo1FfxSlohqInaQ.jpeg",
     "position": "Point Guard",
     "team": "Philadelphia 76ers"
   }

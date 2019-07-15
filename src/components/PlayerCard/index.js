@@ -1,9 +1,11 @@
 import React from "react";
 import "./style.css";
 
+
+
 function PlayerCard(props) {
   return (
-    <div className="card">
+    <div className="card" onClick={() => props.selectPlayer(props.id)}>
       <div className="img-container">
         <img alt={props.name} src={props.image} />
       </div>
