@@ -19,6 +19,14 @@ class App extends Component {
     this.setState({ players });
   };
 
+  newHighScore = () => {
+    if (this.state.score > this.state.highScore) {
+      this,this.setState({highScore: this.state.score});
+    }
+
+
+  }
+
 
 
   // Map over this.state.players and render a playerCard component for each player object
@@ -28,7 +36,7 @@ class App extends Component {
         <Title>Players List</Title>
         {this.state.players.map(player => (
           <PlayerCard
-            removeplayer={this.removeplayer}
+            selectPlayer={this.selectPlayer}
             id={player.id}
             key={player.id}
             name={player.name}
