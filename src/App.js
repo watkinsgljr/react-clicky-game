@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import PlayerCard from "./components/PlayerCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import Header from "./components/Header";
 import players from "./players.json";
 
 class App extends Component {
